@@ -15,15 +15,6 @@ This project provides a reproducible way to examine whether a clinical risk mode
 - **Explains model decisions:** Uses SHAP to show which features influence predictions, both across the whole model and for individual patients.
 - **Tests mitigation strategies:** Compares a single global decision threshold with group-specific thresholds to see how each approach affects fairness and performance.
 
-## Project Structure
-
-```text
-results/
-├── audit_bundle/       # Fairness metrics, calibration results, SHAP outputs, and model comparisons
-└── figures/            # ROC curves, confusion matrices, calibration plots, and patient-level explanations
-
-models/                 # Trained Logistic Regression and XGBoost models
-```
 
 ## Dataset
 
@@ -32,25 +23,16 @@ The analysis uses the [Diabetes 130-US Hospitals dataset](https://archive.ics.uc
 ## Getting Started
 
 ### Requirements
+- download the notebook
+- then use google colab
 
-- Python 3.8 or later
-- pip
 
 ### Installation
 
 ```bash
-git clone [[https://github.com/your-username/clinical-fairness-auditing.git](https://github.com/your-username/clinical-fairness-auditing.git)](https://github.com/TheophilusWY/dataScience_projects.git)
-cd clinical-fairness-auditing
-pip install -r requirements.txt
-```
+git clone (https://github.com/TheophilusWY/dataScience_projects.git)
 
-### Running the Audit
 
-```bash
-python main.py
-```
-
-The pipeline will save fairness metrics, logs, and visualisations to the `results/` folder.
 
 ## Included Results
 
