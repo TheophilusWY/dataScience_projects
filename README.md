@@ -23,8 +23,10 @@ The analysis uses the [Diabetes 130-US Hospitals dataset](https://archive.ics.uc
 ## Getting Started
 
 ### Requirements
-- download the notebook
-- then use google colab
+- Paste this GitHub link into Colab’s GitHub tab:
+https://github.com/TheophilusWY/dataScience_projects/blob/main/Fairness_Auditing_Notebook.ipynb
+
+- Alternatively, download the notebook from GitHub and upload it to Colab via File → Upload notebook.
 
 
 ### Installation
