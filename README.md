@@ -20,19 +20,16 @@ This project provides a reproducible way to examine whether a clinical risk mode
 
 The analysis uses the [Diabetes 130-US Hospitals dataset](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008), which contains hospital encounter records for patients with diabetes from 130 US hospitals between 1999 and 2008.
 
-## Getting Started
 
-### Requirements
-- Paste this GitHub link into Colab’s GitHub tab:
-https://github.com/TheophilusWY/dataScience_projects/blob/main/Fairness_Auditing_Notebook.ipynb
 
-- Alternatively, download the notebook from GitHub and upload it to Colab via File → Upload notebook.
 
 
 ### Installation
 
-```bash
-git clone (https://github.com/TheophilusWY/dataScience_projects.git)
+- Paste this GitHub link into Colab’s GitHub tab:
+https://github.com/TheophilusWY/dataScience_projects/blob/main/Fairness_Auditing_Notebook.ipynb
+
+- Alternatively, download the notebook from GitHub and upload it to Colab via File → Upload notebook.
 
 
 
