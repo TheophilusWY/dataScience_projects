@@ -39,7 +39,7 @@ The analysis uses the [Diabetes 130-US Hospitals dataset](https://archive.ics.uc
 ### Installation
 
 ```bash
-git clone [https://github.com/your-username/clinical-fairness-auditing.git](https://github.com/your-username/clinical-fairness-auditing.git)
+git clone [[https://github.com/your-username/clinical-fairness-auditing.git](https://github.com/your-username/clinical-fairness-auditing.git)](https://github.com/TheophilusWY/dataScience_projects.git)
 cd clinical-fairness-auditing
 pip install -r requirements.txt
 ```
